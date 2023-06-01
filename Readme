@@ -1,0 +1,4 @@
+This project demonstrates the usage of 
+  1. Redux in React
+  2. Redux toolkit
+  3. Handling side effects using Action Creator Function
